@@ -209,6 +209,6 @@ export default {
 .text-success, .fa-check {
   color: #00B74A;
   text-align: center!important;
-  margin-left: 50px;
+  margin-left: 100px;
 }
 </style>
