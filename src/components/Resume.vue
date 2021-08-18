@@ -54,6 +54,29 @@
 
                 <div class="row item">
 
+                  <div class="twelve columns">
+
+                    <h3>
+                      <a href="https://hng.tech/" title="Styleshout" target="_blank">
+                        <img src="images/hng-logo.png" alt="Zuri Logo" width="100" height="70" style="background-color: white; padding: 5px;">
+                      </a>
+                      HNG Internship 8</h3>
+                    <p class="info">Backend Intern <span>&bull;</span> <em class="date">August 2021 - Present</em></p>
+
+                    <p>
+                      I interned with hotels.ng internship as a backend developer. I contributed to developing business logic and
+                      architectural patterns for quite a number of products within three months. These projects used different backend technologies and I learnt how to work with different
+                      back-end and front-end tools within a short period of time.
+                      I was able to meet strict deadlines and completed daily tasks in order to remain on the competitive program
+                      and eventually became a finalist.
+                    </p>
+
+                  </div>
+
+                </div>
+
+                <div class="row item">
+
                     <div class="twelve columns">
 
                         <h3>Code Academy</h3>
