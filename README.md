@@ -1,4 +1,4 @@
-# sledge_resume
+# Sledge Resume
 
 ## Project setup
 ```
@@ -20,5 +20,10 @@ npm run build
 npm run lint
 ```
 
+
+### Program to Display Name
+```The program can be located in Public folder ---- display_name.js```
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+"# sledge_resume" 
