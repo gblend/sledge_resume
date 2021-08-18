@@ -5,7 +5,7 @@
 
             <div class="three columns">
 
-                <img class="profile-pic" src="images/profilepic.jpg" alt="" />
+                <img class="profile-pic" src="images/profile_image.jpg" alt="" />
 
             </div>
 
